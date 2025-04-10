@@ -1,3 +1,4 @@
 ligne1 
+LIGNE 2
 LIGNE 3
-LIGNE 4
+LIGNE 4 Modifié depuis gitlab
